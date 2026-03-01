@@ -83,10 +83,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/saurabhborse05/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:sbborse05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
