@@ -34,19 +34,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbborse-05&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbborse-05&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sbborse-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbborse-05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 📈 Contribution Activity
@@ -86,14 +83,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurabhborse05/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sbborse05@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
 ---
 
 <p align="center">
